@@ -1,3 +1,4 @@
+# Check out the live site here [SleekSelect](https://e-commerce-dhxz.onrender.com/). Please note, the site may take a moment to load as it is hosted on a free trial plan on Render.
 # SleekSelect E-Commerce Store
 
 SleekSelect is a full-stack e-commerce platform designed to deliver a seamless shopping experience with robust performance, secure user authentication, and reliable payment processing.
